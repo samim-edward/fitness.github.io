@@ -1,0 +1,727 @@
+/* media query */
+
+/* 1024 */
+
+@media screen and (max-width: 1024px) {
+    .nav-one {
+        width: 22%;
+        margin-top: 20px;
+    }
+
+    .text-one {
+        padding-top: 280px;
+    }
+
+    .header-one {
+        margin-bottom: 20px;
+    }
+
+    .text-one {
+        padding-top: 270px;
+    }
+
+    .your {
+        font-size: 46px;
+    }
+
+    .text-one p {
+        font-size: 18px;
+        width: 72%;
+    }
+
+    .container {
+        width: 88%;
+    }
+
+    .h4-title {
+        font-size: 26px;
+    }
+
+    .par-link {
+        margin: 18px 20px 0px;
+    }
+
+    .par-link :nth-child(1) {
+        margin-bottom: 20px;
+    }
+
+    .text-formt h3 {
+        font-size: 24px;
+    }
+
+    .text-formt p {
+        font-size: 16px;
+    }
+
+    .social-med {
+        padding-top: 200px;
+    }
+
+    .icons {
+        width: 20%;
+    }
+
+    .icons i {
+        font-size: 112px;
+    }
+
+    .social-med h3 {
+        font-size: 42px;
+    }
+
+    .social-med h2 {
+        font-size: 22px;
+    }
+
+    .orange-bgd {
+        padding: 75px 0;
+    }
+
+    .container-two {
+        width: 70%;
+        padding: 48px 0;
+    }
+
+    .container-two h2 {
+        font-size: 50px;
+    }
+}
+
+/* 768 */
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 88%;
+    }
+
+    .header-one {
+        margin-bottom: 16px;
+    }
+
+    .logo img {
+        width: 60px;
+        height: 33px;
+        margin-top: 17px;
+    }
+
+    .nav-one {
+        width: 26%;
+    }
+
+    .nav-one a {
+        font-size: 18px;
+    }
+
+    .picture {
+        background-position: 40% 50%;
+    }
+
+    .text-one {
+        padding-top: 332px;
+    }
+
+    .text-one h1 {
+        font-size: 48px;
+    }
+
+    .text-one p {
+        width: 95%;
+        font-size: 18px;
+    }
+
+    .classes h1 {
+        font-size: 54px;
+        padding-bottom: 50px;
+    }
+
+    .item-classes {
+        width: 48%;
+    }
+
+    .item-class {
+        row-gap: 28px;
+    }
+
+    .formats h1 {
+        padding: 55px 0;
+    }
+
+    .image-format {
+        width: 48%;
+    }
+
+    .social-med {
+        width: 94%;
+        padding-top: 140px;
+    }
+
+    .icons {
+        width: 20%;
+    }
+
+    .icons i {
+        font-size: 128px;
+    }
+
+    .insta h2 {
+        margin-top: 40px;
+        font-size: 26px;
+    }
+
+    .social-med h3 {
+        font-size: 48px;
+    }
+
+    .orange-bgd {
+        padding: 60px 0;
+    }
+
+    .container-two {
+        width: 90%;
+        padding: 40px 0;
+    }
+
+
+}
+
+/* 425 */
+
+@media screen and (max-width: 425px) {
+    .container {
+        width: 84%;
+    }
+
+    .header-one {
+        margin-bottom: 10px;
+    }
+
+    .logo img {
+        width: 54px;
+        height: 30px;
+        margin-top: 16px
+    }
+
+    .nav-one {
+        width: 38% !important;
+        margin-top: 18px;
+    }
+
+    .nav-one a {
+        font-size: 17px;
+    }
+
+    .picture {
+        background-position: 50%;
+    }
+
+    .text-one {
+        padding-top: 316px;
+    }
+
+    .text-one h1 {
+        font-size: 32px;
+    }
+
+    .text-one p {
+        font-size: 20px;
+    }
+
+    .classes h1 {
+        font-size: 30px;
+    }
+
+    .item-classes {
+        width: 100%;
+    }
+
+    .formats h1 {
+        padding: 45px 0;
+        font-size: 50px
+    }
+
+    .image-format {
+        width: 100%;
+    }
+
+    .social-med {
+        width: 88%;
+        padding-top: 139px;
+    }
+
+    .icons {
+        width: 30%;
+    }
+
+    .icons i {
+        font-size: 100px;
+    }
+
+    .social-med h3 {
+        font-size: 38px;
+    }
+
+    .insta {
+        width: 92%;
+    }
+
+    .insta h2 {
+        margin-top: 40px;
+        font-size: 18px;
+    }
+
+    .container-two {
+        width: 84%;
+        padding: 30px 0;
+    }
+
+    .container-two h2 {
+        font-size: 40px;
+    }
+
+    .width50 {
+        width: 100%;
+        display: block;
+    }
+
+    .form-two {
+        width: 100%;
+    }
+
+    .phone-date {
+        width: 100%;
+        display: block;
+    }
+}
+
+
+
+/* 375 */
+
+@media screen and (max-width: 375px) {
+    .nav-one {
+        width: 45%;
+    }
+
+    .nav-one a {
+        font-size: 16px;
+    }
+
+    .btt {
+        margin-top: 90px;
+    }
+
+    .insta {
+        width: 96%;
+    }
+
+    .insta h2 {
+        font-size: 16px;
+    }
+
+}
+
+/* 320 */
+
+@media screen and (max-width: 320px) {
+    .nav-one {
+        width: 50%;
+    }
+
+    .text-one h1 {
+        font-size: 26px;
+    }
+
+    .text-one p {
+        font-size: 20px;
+    }
+
+    .btt a {
+        padding: 20px 46px;
+        font-size: 16px;
+    }
+
+    .h4-title {
+        font-size: 24px;
+    }
+
+    .social-med {
+        width: 96%;
+    }
+
+    .social-med h3 {
+        font-size: 36px;
+    }
+}
+
+/* end home page responsive */
+
+/* start landing page responsive */
+
+@media screen and (max-width: 1024px) {
+    .fitness {
+        background-position: center;
+    }
+    .text-sport {
+        width: 77%;
+    }
+    .r-texts a {
+        padding: 18px 58px;
+    }
+    .stories-titl {
+        width: 76%;
+    }
+    .fr-title h3 {
+        margin: 30px 100px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .text-sport {
+        width: 84%;
+    }
+    .modern-item {
+        width: 31%;
+    }
+    .stories-titl h2 { 
+        font-size: 42px
+    };
+    
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 96%;
+    }
+    .nav-one {
+        width: 26%;
+        justify-content: space-around;
+    }
+    .text-sport {
+        width: 94%;
+    }
+    .img-text {
+        display: block;
+    }
+    .sports-img {
+        width: 100%;
+    }
+    .sports-text {
+        width: 100%;
+    }
+    .start-now {
+        background-position: right;
+    }
+    .j-services {
+        flex-wrap: wrap;
+        row-gap: 28px;
+    }
+    .ti-img-service {
+        width: 48%;
+    }
+    .g-img1 {
+        width: 80%;
+        height: 284px;
+    }
+    .g-img2 {
+        width: 70%;
+        height: 280px;
+        background-position: center;
+    }
+    .g-tt {
+        padding-left: 42px;
+    }
+    .g-tt h3 {
+        font-size: 36px;
+    }
+    .g-tt a {
+        padding: 16px 38px;
+    }
+    .r-tt-img {
+        display: block;
+    }
+    .r-text {
+        width: 100%;
+    }
+    .r-img {
+        width: 100%;
+    }
+    .r-texts {
+        margin: 100px 0;
+    }
+    .p-h2 {
+        width: 88%;
+    }
+    .modern-services {
+        gap: 28px;
+    }
+    .modern-item {
+        width: 48%;
+    }
+    .stories {
+        height: 1500px ;
+        background-size: cover;
+    }
+    .stories-titl {
+        width: 94%;
+    }
+    .stories-item {
+        flex-wrap: wrap;
+        gap: 28px;
+    }
+    .stories-items {
+        width: 48%;
+    }
+    .whyus-pd {
+        padding: 22px;
+    }
+    .fr-title {
+        width: 100%;
+    }
+    .fr-title h3 {
+        margin: 36px 28px;
+    }
+    .fr-form input {
+        width: 40%;
+    }
+    .fr-form a {
+        padding: 12px 44px;
+    }
+
+    
+}
+
+/* end of the 768px responsive */
+
+/* stert the 425px responsive */
+
+@media screen and (max-width: 425px) {
+    .nav-one {
+        width: 44% !important;
+        justify-content: space-between;
+    }
+    .container {
+        width: 84%;
+    }
+    .fitness {
+        background-position: 60%;
+    }
+    .fitness-logo img {
+        width: 110px;
+        height: 70px;
+        margin-top: 100px;
+    }
+    .text-sport h1 {
+        font-size: 32px;
+    }
+    .links-a {
+        width: 68%;
+        margin: 75px auto 0;
+        flex-direction: column;
+    }
+    .links-a a {
+            padding: 16px 22px 16px 22px;
+            font-size: 16px;
+    }
+    .text-sport p {
+        font-size: 18px;
+    }
+    .sport-imgs {
+        display: block;
+    }
+    .swim-box {
+        width: 100%;
+    }
+    .item-img {
+        height: 420px;
+    }
+    .all-layuts {
+        height: 350px;
+    }
+    .item-img-yoga {
+        height: 420px;
+    }
+    .yoga {
+        width: 100%;
+    }
+    .fit-well {
+        width: 100%;
+    }
+    .sport-title {
+        font-size: 30px;
+    }
+    .swimming, .fitness-i, .wellness {
+        background-position: 50% 20%;
+    }
+    .boxing, .yoga-i {
+        background-position: 50% 30%;
+    }
+    .pd-sports-text {
+        padding: 20px 0 20px 10px;
+    }
+    .pd-sports-text h2 {
+        font-size: 32px;
+    }
+    .endless,
+    .discover,
+    .comb {
+        font-size: 18px;
+    }
+    .s-lists {
+        font-size: 20px;
+    }
+    .s-lists ul li {
+        margin-bottom: 22px;
+    }
+    .join-now h2 {
+        font-size: 36px;
+    }
+    .ti-img-service {
+        width: 100%;
+    }
+    .ti-img-service p {
+        font-size: 17px;
+    }
+    .g-img-tt {
+            display: block;
+    }
+    .g-img {
+            width: 100%;
+    }
+    .g-tt {
+            width: 100%;
+            margin-top: 210px;
+    }
+    .r-t-img1 {
+        width: 100%;
+    }
+    .r-row {
+        width: 100%;
+    }
+    .p-h2 {
+        width: 100%;
+    }
+    .modern-item {
+        width: 100%;
+    }
+    .stories-titl {
+        width: 100%;
+    }
+    .stories-titl h2 {
+        font-size: 38px;
+    }
+    .stories-items {
+        width: 100%;
+    }
+    .stories {
+        height: 2180px;
+    }
+    .whyus-item {
+        display: block;
+    }
+    .fr-title h2 {
+        font-size: 34px ;
+    }
+    .fr-form input {
+        width: 75% ;
+        margin: 0 0 14px;
+    }
+
+}
+
+/* end of 425px responsive */
+
+/* start of 375px responsive */
+
+@media screen and (max-width: 375px) {
+    .nav-one {
+        width: 48% !important;
+    }
+    .text-sport {
+        width: 100%;
+    }
+    .text-sport h1 {
+        font-size: 27px;
+    }
+    .pd-sports-text h2 {
+        font-size: 30px;
+    }
+    .start-title h2 {
+        font-size: 40px;
+    }
+    .g-tt {
+        padding-left: 30px;
+    }
+    .g-tt a {
+        padding: 14px 28px;
+        font-size: 14px;
+    }
+    .r-texts h2 {
+        font-size: 30px;
+    }
+    .r-texts p {
+        font-size: 16px;
+    }
+    .p-h2 p {
+        font-size: 16px;
+        padding: 30px 10px;
+    }
+    .stories-titl h2 {
+        font-size: 34px;
+    }
+    .why-us h2 {
+        font-size: 44px;
+    }
+    .why-us p {
+        font-size: 14px;
+    }
+    .fr-title h2 {
+        font-size: 32px;
+    }
+    .fr-title h3 {
+        margin: 36px 20px;
+        font-size: 18px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    .nav-one a {
+        font-size: 14px;
+    }
+    .text-sport h1 {
+        font-size: 24px;
+    }
+    .text-sport p {
+        font-size: 16px;
+    }
+    .links-a {
+        width: 76%;
+    }
+    .pd-sports-text h2 {
+        font-size: 26px;
+    }
+    .endless,
+    .discover,
+    .comb {
+        font-size: 16px;
+    }
+    .endless p,
+    .discover p,
+    .comb p {
+        font-size: 16px;
+    }
+    .r-texta a {
+        font-size: 14px;
+        padding: 16px 28px;
+    }
+    .stories-titl p {
+        font-size: 18px;
+    }
+    .fr-title h2 {
+        font-size: 26px;
+    }
+    .fr-title h3 {
+        font-size: 16px;
+    }
+    
+}
